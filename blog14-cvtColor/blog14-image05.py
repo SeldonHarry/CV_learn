@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 #读取原始图像
-img = cv2.imread('miao.jpg')
+img = cv2.imread('test.png')
 
 #获取图像高度和宽度
 height = img.shape[0]
@@ -12,7 +12,7 @@ width = img.shape[1]
 
 #创建一幅图像
 grayimg = np.zeros((height, width, 3), np.uint8)
-print grayimg
+
 
 #图像平均灰度处理方法
 for i in range(height):
