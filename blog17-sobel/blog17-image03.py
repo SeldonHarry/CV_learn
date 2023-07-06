@@ -23,7 +23,7 @@ plt.rcParams['font.sans-serif']=['SimHei']
 #显示图形
 titles = [u'原始图像', u'Sobel算子']  
 images = [lenna_img, Sobel]  
-for i in xrange(2):  
+for i in range(2):  
    plt.subplot(1,2,i+1), plt.imshow(images[i], 'gray')  
    plt.title(titles[i])  
    plt.xticks([]),plt.yticks([])  

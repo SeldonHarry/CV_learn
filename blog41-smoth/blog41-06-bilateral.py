@@ -9,7 +9,7 @@ img = cv2.imread('te.png')
 source = cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
  
 #双边滤波
-result = cv2.bilateralFilter(source, 15, 150, 150)
+result = cv2.bilateralFilter(source, 15, 15, 15) 
 
 #用来正常显示中文标签
 plt.rcParams['font.sans-serif']=['SimHei']

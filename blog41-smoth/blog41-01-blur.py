@@ -9,7 +9,7 @@ img = cv2.imread('lena.png')
 source = cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
  
 #均值滤波
-result = cv2.blur(source, (10,10))
+result = cv2.blur(source, (5,5))
 
 #用来正常显示中文标签
 plt.rcParams['font.sans-serif']=['SimHei']
