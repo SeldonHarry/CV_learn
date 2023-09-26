@@ -1,20 +1,3 @@
-# ImageProcessing-Python
-
----
-
-该资源为作者在CSDN的撰写Python图像处理文章的支撑，主要是Python实现图像处理、图像识别、图像分类等算法代码实现。该系列文章是讲解Python OpenCV图像处理知识，前期主要讲解图像入门、OpenCV基础用法，中期讲解图像处理的各种算法，包括图像锐化算子、图像增强技术、图像分割等，后期结合深度学习研究图像识别、图像分类应用。希望该资源对您有所帮助，一起加油！
-
-强烈推荐另一个资源，这是作者归纳的一本著作《Python中的图像处理》，非常系统，希望对您有所帮助，记得点赞喔，感谢。
-- https://github.com/eastmountyxz/Book3-Python-ImageProcessing
-
-
-
-华为云《从零到壹•Python图像处理及识别》电子书开源：
-- https://bbs.huaweicloud.com/blogs/336932
-- https://github.com/eastmountyxz/HWCloudImageRecognition
-
-
-
 **图像处理：**
 
 [[Python图像处理] 一.图像处理基础知识及OpenCV入门函数](https://blog.csdn.net/Eastmount/article/details/81748802) <br />
@@ -69,36 +52,6 @@
 [[Python图像识别] 四十七.Keras深度学习构建CNN识别阿拉伯手写文字图像](https://blog.csdn.net/Eastmount/article/details/120593269) <br />
 
 
-
-希望文章对您有所帮助，如果有不足之处，还请海涵~
-
-原博客参考地址：[https://blog.csdn.net/eastmount/article/category/9278090](https://blog.csdn.net/eastmount/article/category/9278090)
-
-
-后续会尝试结合深度学习进行更深入的研究。
-
-[[图像处理] Python+OpenCV实现车牌区域识别及Sobel算子](https://blog.csdn.net/Eastmount/article/details/81461679)
-
-CSDN Eastmount 杨秀璋
-2021-05-09
-
-
----
-
-效果图：
-
-
-<div align=center><img src="https://img-blog.csdn.net/20180903142846357?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0Vhc3Rtb3VudA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="60%" height="60%" />
-
-
-<div align=center><img src="https://img-blog.csdn.net/20180830143424533?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0Vhc3Rtb3VudA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="60%" height="60%" />
-
-
-
-<div align=center><img src="https://img-blog.csdn.net/20180906130642638?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0Vhc3Rtb3VudA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="60%" height="60%" />
-
-
-<div align=center><img src="https://img-blog.csdnimg.cn/20181030211808848.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0Vhc3Rtb3VudA==,size_16,color_FFFFFF,t_70" width="60%" height="60%" />
 
 
 
